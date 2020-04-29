@@ -13,3 +13,19 @@
   2) Integration Testing is conducted by the developers.
 
   3) It is type of White Box testing.
+
+- System Testing
+1) What is System Testing ? 
+System  testing  is  the  execution  of  the  software  in  its  final  configuration,  including  integration with other software and hardware systems.
+
+2) conducted by a group of testers
+
+3) It is a type of White box Testing.
+
+-Acceptance Testing
+1) What is Acceptance testing? 
+acceptance   testing   is   to   evaluate   and   validate   that   the   system’s   functionality meets the customer’s requirements, standards and business needs before the final delivery. 
+
+2) conducted by customers and end-users.
+
+3) It is a type of black box testing. 
