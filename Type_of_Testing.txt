@@ -1,0 +1,15 @@
+- Unit Testing
+  1) What is Unit Testing? 
+ Unit Testing is the execution of a complete class, routine or small program that has been written by a single or a team of programmers.
+
+  2) Unit Testing is conducted by the programmer/developer.
+
+  3) It is type of White Box testing.
+
+- Integration Testing
+  1) What is Integration Testing?
+ Integration Testing is the combined execution of two or more classes, packages, components or subsystems that have been created by multiple programmers or programming teams.
+
+  2) Integration Testing is conducted by the developers.
+
+  3) It is type of White Box testing.
